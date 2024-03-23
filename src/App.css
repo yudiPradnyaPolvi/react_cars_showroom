@@ -1,0 +1,38 @@
+
+
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.containers{
+  background-color: #ffffff;
+  width: 1440px;
+  height: 1793px;
+  padding: 32px;
+  gap: 24px;
+  border-radius: 6px;
+  box-shadow: 0px 4px 18px 0px #4b465c1a;
+}
+
+.headers  {
+  display: flex;
+  justify-content: flex-start;
+  color: #0599DE;
+  top:94px;
+  left : 145px;
+  gap: 16px;
+}
+.content-header p {
+  display: flex;
+  justify-content: flex-start;
+  color: #0599DE;
+  font-size: 24px ;
+  font-weight: 700;
+}
+.search-container{
+  display: flex;
+  justify-content: flex-start;
+}
